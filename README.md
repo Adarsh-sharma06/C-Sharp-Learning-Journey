@@ -2,14 +2,13 @@
 <p align="center">The humble way i took to learn C# Language and .NET Framework, Be free to add any helpful resources! </p> 
 
 
-<h2>Summary</h2>  
+<h2>Summary</h2>
 * What is .NET
-* What is .NET Core 
-* What is C# 
-* What this repository contains 
-* Resources & tutorials 
-* Credits  
-
+* What is .NET Core
+* What is C#
+* What this repository contains
+* Resources & tutorials
+* Credits
 
 ## What is .NET Framework (By geeksforgeeks) 
 > .NET is a software framework which is designed and developed by Microsoft. The first version of .Net framework was 1.0 which came in the year 2002. In easy words, it is a virtual machine for compiling and executing programs written in different languages like C#, VB.Net etc. <br> It is used to develop Form-based applications, Web-based applications, and Web services. There is a variety of programming languages available on the .Net platform, VB.Net and C# being the most common ones are . It is used to build applications for Windows, phone, web etc. It provides a lot of functionalities and also supports industry standards.  
