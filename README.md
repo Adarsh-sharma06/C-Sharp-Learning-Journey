@@ -16,7 +16,11 @@
 
 
 ## What is .NET Core (By Microsoft) 
-> .NET Core is an open-source, general-purpose development platform maintained by Microsoft and the .NET community on GitHub. It's cross-platform (supporting Windows, macOS, and Linux) and can be used to build web, mobile,desktop, device, cloud, and IoT applications.  ## What is C# (By Wikipedia) > C# (pronounced C sharp) is a general-purpose, multi-paradigm programming language encompassing strong typing, lexically scoped, imperative, declarative, functional, generic, object-oriented (class-based), and component-oriented programming disciplines. It was developed around 2000 by Microsoft within its .NET initiative and later approved as a standard <br>C# was designed by Anders Hejlsberg, and its development team is currently led by Mads Torgersen. The most recent version is C# 7.3, which was released in 2018 alongside Visual Studio 2017 version 15.7.2.   
+> .NET Core is an open-source, general-purpose development platform maintained by Microsoft and the .NET community on GitHub. It's cross-platform (supporting Windows, macOS, and Linux) and can be used to build web, mobile,desktop, device, cloud, and IoT applications.  
+
+
+## What is C# (By Wikipedia) 
+> C# (pronounced C sharp) is a general-purpose, multi-paradigm programming language encompassing strong typing, lexically scoped, imperative, declarative, functional, generic, object-oriented (class-based), and component-oriented programming disciplines. It was developed around 2000 by Microsoft within its .NET initiative and later approved as a standard <br>C# was designed by Anders Hejlsberg, and its development team is currently led by Mads Torgersen. The most recent version is C# 7.3, which was released in 2018 alongside Visual Studio 2017 version 15.7.2.   
 
 
 ## What this repository contains While learning i did very simple projects to test what i learned  ## Resources & tutorials * [Tutorials Point](http://www.tutorialspoint.com/csharp/index.htm)                  
