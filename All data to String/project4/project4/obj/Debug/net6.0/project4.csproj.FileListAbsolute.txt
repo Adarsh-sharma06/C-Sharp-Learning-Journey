@@ -1,0 +1,15 @@
+C:\Users\adars\source\repos\project4\project4\bin\Debug\net6.0\project4.exe
+C:\Users\adars\source\repos\project4\project4\bin\Debug\net6.0\project4.deps.json
+C:\Users\adars\source\repos\project4\project4\bin\Debug\net6.0\project4.runtimeconfig.json
+C:\Users\adars\source\repos\project4\project4\bin\Debug\net6.0\project4.dll
+C:\Users\adars\source\repos\project4\project4\bin\Debug\net6.0\project4.pdb
+C:\Users\adars\source\repos\project4\project4\obj\Debug\net6.0\project4.csproj.AssemblyReference.cache
+C:\Users\adars\source\repos\project4\project4\obj\Debug\net6.0\project4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adars\source\repos\project4\project4\obj\Debug\net6.0\project4.AssemblyInfoInputs.cache
+C:\Users\adars\source\repos\project4\project4\obj\Debug\net6.0\project4.AssemblyInfo.cs
+C:\Users\adars\source\repos\project4\project4\obj\Debug\net6.0\project4.csproj.CoreCompileInputs.cache
+C:\Users\adars\source\repos\project4\project4\obj\Debug\net6.0\project4.dll
+C:\Users\adars\source\repos\project4\project4\obj\Debug\net6.0\refint\project4.dll
+C:\Users\adars\source\repos\project4\project4\obj\Debug\net6.0\project4.pdb
+C:\Users\adars\source\repos\project4\project4\obj\Debug\net6.0\project4.genruntimeconfig.cache
+C:\Users\adars\source\repos\project4\project4\obj\Debug\net6.0\ref\project4.dll
